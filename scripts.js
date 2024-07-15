@@ -92,21 +92,21 @@ function changeImage(content){
     content.style.backgroundColor = "#ff3147"
     content.style.color = "white"
     if(content.id === "content_1"){
-        imageElement.src = "images/image_oe28ow.png"
+        imageElement.src = "image_oe28ow.png"
         content_2.style.backgroundColor = "#fafafa"
         content_2.style.color = "black"
         content_3.style.backgroundColor = "#fafafa"
         content_3.style.color = "black"
     }
     if(content.id === "content_2"){
-        imageElement.src = "images/image_oe28ow2.png"
+        imageElement.src = "image_oe28ow2.png"
         content_1.style.backgroundColor = "#fafafa"
         content_1.style.color = "black"
         content_3.style.backgroundColor = "#fafafa"
         content_3.style.color = "black"
     }
     if(content.id === "content_3"){
-        imageElement.src = "images/image_oe28ow3.png"
+        imageElement.src = "image_oe28ow3.png"
         content_1.style.backgroundColor = "#fafafa"
         content_1.style.color = "black"
         content_2.style.backgroundColor = "#fafafa"
